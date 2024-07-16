@@ -59,10 +59,7 @@
     display: flex;
     gap: 0px;
 }
-.invoice-details{
-    margin: 0px;
-    padding: 0px;
-}
+
 .invoice-text{
     margin: 0px;
     padding: 2px;
